@@ -39,6 +39,7 @@ public class Main {
             lion1.breathe();
             lion1.move();
             lion1.roar();
+            lion1.eat();
         }
         else if (str.equals("1")|| str.equals("Elephant")) {
             elephant1.breathe();

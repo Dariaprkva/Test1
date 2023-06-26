@@ -17,4 +17,8 @@ public class Lion extends Animals {
     public void roar() {
         System.out.println("lion roars");
     }
+
+    public void eat() {
+        System.out.println("lion eats");
+    }
 }
